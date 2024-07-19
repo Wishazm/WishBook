@@ -19,7 +19,6 @@ const ProductList = ({ products, onLoad, displayCount }) => {
               <img className={list.imgs} src={product.image} alt="" />
             </Link>
             <h3>{product.name}</h3>
-            <p>{product.price} DH</p>
             <button onClick={() => onLoad(product)}>Download Now</button>
           </div>
         ))}

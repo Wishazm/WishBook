@@ -17,7 +17,6 @@ function Cart({ cartItems }) {
             <tr key={index}>
               <td>{item.name}</td>
               <td>{item.description}</td>
-              <td>{item.price} DH</td>
             </tr>
           ))}
         </tbody>

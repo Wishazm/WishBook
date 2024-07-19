@@ -1,0 +1,22 @@
+.box {
+  width: 70%;
+}
+.container {
+  margin: 0 auto;
+  width: 70%;
+  padding: 30px;
+  text-align: center;
+}
+.header {
+  text-align: center;
+  text-decoration: underline;
+  color: #16727e;
+}
+.oumnia {
+  font-weight: 600;
+  /* font-size: large; */
+}
+.h2 {
+  text-align: center;
+  color: grey;
+}
