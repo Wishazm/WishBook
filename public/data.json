@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Cyberpunk Headphones 1",
+    "url": "/images/still-life-wireless-cyberpunk-headphones (l).jpg",
+    "description": "High-quality wireless headphones.",
+    "price": 199
+  },
+  {
+    "id": 2,
+    "name": "Cyberpunk Headphones 2",
+    "url": "/images/still-life-wireless-cyberpunk-headphones (2).jpg",
+    "description": "Ergonomic design with superior sound.",
+    "price": 249
+  },
+  {
+    "id": 3,
+    "name": "Cyberpunk Headphones 3",
+    "url": "/images/still-life-wireless-cyberpunk-headphones (3).jpg",
+    "description": "Noise-cancelling and long battery life.",
+    "price": 299
+  }
+]

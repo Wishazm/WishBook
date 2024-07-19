@@ -1,0 +1,72 @@
+.panelDiv {
+  background-color: rgba(128, 128, 128, 0.142);
+  margin: auto;
+  width: 100%;
+  border-radius: 10px;
+  transform: translateY(3%);
+  padding: 20px;
+}
+.panelDiv h1 {
+  text-align: center;
+  color: #f3ac29;
+}
+.adminForm {
+  background-color: rgb(255, 255, 255);
+  width: 30%;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 10px;
+}
+.adminForm input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  border: 1px solid rgba(128, 128, 128, 0.715);
+}
+.adminForm input:focus {
+  outline: none;
+}
+.adminForm button {
+  width: 100%;
+  border-radius: 5px;
+  padding: 8px;
+  color: white;
+  background-color: #16727e;
+  border: none;
+}
+
+.adminForm {
+  position: relative;
+  overflow: hidden;
+}
+
+.tableList {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+}
+
+.tableList,
+.tableList th,
+.tableList td {
+  border: 1px solid black;
+}
+
+.tableList thead {
+  background-color: #f2f2f2;
+}
+
+.tableList thead th {
+  border: 1px solid black;
+}
+
+.tableList tbody td {
+  border: 1px solid black;
+}
+.dataList {
+  background-color: rgba(128, 128, 128, 0.142);
+  border-radius: 10px;
+  margin-top: 50px;
+}

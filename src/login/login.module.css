@@ -1,0 +1,42 @@
+.loginDiv {
+  width: 30%;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.loginForm {
+  width: 90%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.loginForm input {
+  width: 100%;
+  color: #11535c;
+  padding: 8px;
+  margin-bottom: 8px;
+  border: 1px solid rgba(199, 198, 198, 0.693);
+  border-radius: 5px;
+}
+.loginForm button {
+  width: 100%;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 20px;
+  background-color: #16727e;
+  color: white;
+}
+.loginForm input:focus {
+  color: #11535c;
+  outline: none;
+  font-weight: 400;
+}
+span {
+  margin-top: 30px;
+  font-size: 13px;
+}
+.lnk {
+  color: #16727e;
+  text-decoration: underline;
+}

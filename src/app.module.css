@@ -1,0 +1,27 @@
+* {
+  font-family: "Poppins";
+}
+::selection {
+  color: white;
+  background-color: #1b4e53;
+}
+.background {
+  /* background: linear-gradient(
+    to top left,
+    #0a1c1e,
+    #1b4e53,
+    #061d23f0,
+    #040c0c,
+    #010708
+  ); */
+  background-attachment: scroll;
+  background-size: cover;
+  height: 100vh;
+}
+
+html,
+body,
+#root .background {
+  height: 100%;
+  margin: 0;
+}

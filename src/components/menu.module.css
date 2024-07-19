@@ -1,0 +1,56 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  /* background-color: gainsboro; */
+  height: 10%;
+}
+* {
+  font-family: "Poppins";
+}
+.logodiv {
+  display: flex;
+  align-items: center;
+}
+.logodiv h1 {
+  color: #16727e;
+  font-weight: 200;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+li {
+  margin-right: 50px;
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+  color: rgb(28, 156, 132);
+  /* color: #91b1b6; */
+}
+a:hover {
+  border-bottom: 1px solid rgb(24, 123, 92);
+}
+.contactBtn {
+  background-color: transparent;
+  /* padding: 10px; */
+  color: #16727e;
+  border: none;
+  font-size: 15px;
+  border-bottom: 1px solid #16727e;
+}
+.contactBtn:hover {
+  color: white;
+  border-bottom: 1px solid white;
+}

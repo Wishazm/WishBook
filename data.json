@@ -1,0 +1,337 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "1776",
+      "description": "A compelling narrative of the American Revolution, examining the events of 1776 with a fresh perspective.",
+      "stock": 10,
+      "image": "/1776.jpg"
+    },
+    {
+      "id": "2",
+      "name": "A History of the World in 6 Glasses",
+      "description": "Explores world history through the lens of six different beverages that have shaped civilizations.",
+      "stock": 15,
+      "image": "/A History of the World in 6 Glasses.jpg"
+    },
+    {
+      "id": "3",
+      "name": "A People's History of the United States",
+      "description": "Howard Zinn's classic work presenting American history from the perspective of marginalized groups.",
+      "stock": 12,
+      "image": "/APeoplesHistoryoftheUnitedStates.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Calloway Sisters Hothouse Flower",
+      "description": "A gripping novel about the complexities of family relationships and personal growth.",
+      "stock": 8,
+      "image": "/CallowaySistersHothouse Flower.webp"
+    },
+    {
+      "id": "5",
+      "name": "Caravaggio The Complete Works",
+      "description": "An extensive collection of Caravaggio's artworks, featuring detailed analysis and high-quality reproductions.",
+      "stock": 5,
+      "image": "/Caravaggio The Complete Works.png"
+    },
+    {
+      "id": "6",
+      "name": "Censored Art Today",
+      "description": "A critical examination of how contemporary art is censored and the implications for artistic freedom.",
+      "stock": 7,
+      "image": "/Censored Art Today.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Dali The Paintings",
+      "description": "A comprehensive look at Salvador Dali's most famous paintings, with insights into his surrealist techniques.",
+      "stock": 6,
+      "image": "/Dalí. the Paintings.png"
+    },
+    {
+      "id": "8",
+      "name": "Defy the Night",
+      "description": "A thrilling young adult novel set in a dystopian world where hope and rebellion intertwine.",
+      "stock": 14,
+      "image": "/Defy the Night.png"
+    },
+    {
+      "id": "9",
+      "name": "Embracing Defeat",
+      "description": "A historical account of Japan's post-WWII period, focusing on the cultural and political transformations.",
+      "stock": 9,
+      "image": "/Embracing Defeat.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Every Summer After",
+      "description": "A heartwarming story of a summer romance that changes lives and the impact of time on relationships.",
+      "stock": 11,
+      "image": "/Every Summer After.webp"
+    },
+    {
+      "id": "11",
+      "name": "Factfulness",
+      "description": "An exploration of the world's progress and the biases that shape our understanding of global issues.",
+      "stock": 13,
+      "image": "/Factfulness.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Forged by Blood",
+      "description": "A gripping historical novel set against the backdrop of ancient conflicts and heroic struggles.",
+      "stock": 8,
+      "image": "/Forged by Blood.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Frida Kahlo The Complete Paintings",
+      "description": "A definitive collection of Frida Kahlo's artwork, showcasing her unique style and emotional depth.",
+      "stock": 6,
+      "image": "/Frida Kahlo The Complete Paintings.png"
+    },
+    {
+      "id": "14",
+      "name": "Hamlet",
+      "description": "William Shakespeare's iconic tragedy about revenge, madness, and the complexities of the human condition.",
+      "stock": 20,
+      "image": "/hamlet.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Homo Deus",
+      "description": "Yuval Noah Harari's exploration of the future of humanity and the quest for immortality and happiness.",
+      "stock": 12,
+      "image": "/Homo Deus.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Japanese Woodblock Prints. 40th Ed",
+      "description": "A comprehensive guide to Japanese woodblock prints, showcasing their artistic significance and historical impact.",
+      "stock": 7,
+      "image": "/Japanese Woodblock Prints. 40th Ed.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Long Walk to Freedom",
+      "description": "Nelson Mandela's autobiography detailing his journey from childhood to his presidency in South Africa.",
+      "stock": 10,
+      "image": "/Long Walk to Freedom.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Monet or the Triumph of Impressionism",
+      "description": "An insightful look into Claude Monet's contribution to the Impressionist movement and his most celebrated works.",
+      "stock": 5,
+      "image": "/Monet or the Triumph of Impressionalism.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Reminders of Him",
+      "description": "A poignant novel exploring themes of loss, redemption, and the power of memory.",
+      "stock": 9,
+      "image": "/RemindersOfHim.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Restart",
+      "description": "A compelling story about second chances and personal growth following a life-altering event.",
+      "stock": 11,
+      "image": "/Restart.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Sapiens: A Brief History of Humankind",
+      "description": "Yuval Noah Harari's examination of the history and impact of the human species from the Stone Age to the modern world.",
+      "stock": 15,
+      "image": "/SapiensABriefHistoryofHumankind.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Spring Cannot Be Cancelled",
+      "description": "A moving exploration of art, life, and resilience during challenging times.",
+      "stock": 8,
+      "image": "/Spring Cannot Be Cancelled.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Team of Rivals",
+      "description": "A detailed study of Abraham Lincoln's relationships with his cabinet members during the American Civil War.",
+      "stock": 7,
+      "image": "/Team of Rivals.jpg"
+    },
+    {
+      "id": "24",
+      "name": "The Escape Artist",
+      "description": "An intriguing narrative about an individual's journey to escape from societal constraints and personal struggles.",
+      "stock": 9,
+      "image": "/The Escape Artist.jpg"
+    },
+    {
+      "id": "25",
+      "name": "The Fifth Season",
+      "description": "A science fiction novel exploring a world plagued by apocalyptic seismic activity and the complex magic of earth manipulation.",
+      "stock": 12,
+      "image": "/The Fifth Season.jpg"
+    },
+    {
+      "id": "26",
+      "name": "The Guns of August",
+      "description": "A historical account of the first month of World War I, highlighting the key battles and political decisions.",
+      "stock": 10,
+      "image": "/The Guns of August.png"
+    },
+    {
+      "id": "27",
+      "name": "The Lessons of History",
+      "description": "A concise exploration of historical patterns and lessons that have shaped human civilization.",
+      "stock": 14,
+      "image": "/The Lessons of History.jpg"
+    },
+    {
+      "id": "28",
+      "name": "The Lions Den",
+      "description": "A thrilling novel set in the world of high stakes and dangerous liaisons.",
+      "stock": 9,
+      "image": "/The Lions Den.jpg"
+    },
+    {
+      "id": "29",
+      "name": "The Lord of the Rings",
+      "description": "J.R.R. Tolkien's epic fantasy novel, following the quest to destroy a powerful ring and defeat dark forces.",
+      "stock": 20,
+      "image": "/The Lord of the Rings.jpg"
+    },
+    {
+      "id": "30",
+      "name": "The New Drawing on the Right Side of the Brain",
+      "description": "An updated edition of the classic book on drawing techniques and the science behind artistic creativity.",
+      "stock": 8,
+      "image": "/The New Drawing on the Right Side of the Brain.jpg"
+    },
+    {
+      "id": "31",
+      "name": "The Secret Lives of Colour",
+      "description": "An exploration of the history and impact of colors, revealing their cultural significance and hidden stories.",
+      "stock": 11,
+      "image": "/The Secret Lives of Colour.jpg"
+    },
+    {
+      "id": "32",
+      "name": "The Song of Achilles",
+      "description": "A retelling of the Iliad from the perspective of Patroclus, exploring love and heroism in ancient Greece.",
+      "stock": 13,
+      "image": "/the song of achilles.jpg"
+    },
+    {
+      "id": "33",
+      "name": "The Story of Art Without Men",
+      "description": "A reimagining of art history focusing on the contributions and perspectives of female artists.",
+      "stock": 6,
+      "image": "/The Story of Art Without Men.jpg"
+    },
+    {
+      "id": "34",
+      "name": "The Story of Art",
+      "description": "E.H. Gombrich's comprehensive history of art, exploring the development of artistic styles and techniques.",
+      "stock": 15,
+      "image": "/The Story of Art.jpg"
+    },
+    {
+      "id": "35",
+      "name": "The Water Outlaws",
+      "description": "A novel set in a world of water and rebellion, exploring themes of power and resistance.",
+      "stock": 7,
+      "image": "/The Water Outlaws.jpg"
+    },
+    {
+      "id": "36",
+      "name": "Things We Never Got Over",
+      "description": "A contemporary romance novel dealing with themes of love, loss, and personal healing.",
+      "stock": 9,
+      "image": "/ThingsWeNeverGotOver.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Witchcraft. The Library of Esoterica",
+      "description": "A detailed exploration of witchcraft through history, examining its practices, myths, and cultural impact.",
+      "stock": 8,
+      "image": "/Witchcraft. the Library of Esoterica.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "hashed_password",
+      "address": "123 Main St, Cityville"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "hashed_password",
+      "address": "456 Oak St, Townsville"
+    }
+  ],
+  "carts": [
+    {
+      "user_id": 1,
+      "items": [
+        {
+          "product_id": 1,
+          "quantity": 2
+        },
+        {
+          "product_id": 3,
+          "quantity": 1
+        }
+      ],
+      "total": 1179.97,
+      "id": "8185"
+    },
+    {
+      "user_id": 2,
+      "items": [
+        {
+          "product_id": 2,
+          "quantity": 1
+        }
+      ],
+      "total": 499.99,
+      "id": "7d01"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "user_id": 1,
+      "products": [
+        {
+          "product_id": 1,
+          "quantity": 2
+        },
+        {
+          "product_id": 3,
+          "quantity": 1
+        }
+      ],
+      "total": 1179.97,
+      "order_date": "2023-01-15T08:30:00Z"
+    },
+    {
+      "id": "2",
+      "user_id": 2,
+      "products": [
+        {
+          "product_id": 2,
+          "quantity": 1
+        }
+      ],
+      "total": 499.99,
+      "order_date": "2023-02-01T12:15:00Z"
+    }
+  ]
+}
